@@ -11,8 +11,8 @@ body {
   font-size: 120%;
 }
 
-.vertLine {
-  border-left: 2px solid #FF0000;
+table, th, td {
+  border: 2px solid white;
 }
 
 a {
