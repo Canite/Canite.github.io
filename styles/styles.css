@@ -8,5 +8,33 @@ body {
   background-color: #000215;
   color: #B8BDEA;
   font-family: "Lucida Console", Monaco, monospace;
-  font-size: 160%;
+  font-size: 120%;
+}
+
+a {
+  text-decoration: none
+}
+
+a:link {
+  color: #C1CE12;
+  background: transparent;
+  border-bottom: 1px solid #C1CE12;
+}
+
+a:visited {
+  color: #585D09;
+  background: transparent;
+  border-bottom: 1px solid #585D09;
+}
+
+a:focus, a:hover {
+  color: #C1CE12;
+  background: #D1DB4B;
+  border-bottom: 2px solid #D1DB4B;
+}
+
+a:active {
+  color: #C1CE12;
+  background: transparent;
+  border-bottom: 1px solid #C1CE12;
 }
