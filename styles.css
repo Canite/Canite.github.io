@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);)
 html, body {
   color: #ddd;
-  background-color: #04002C;
   margin: 0;
   padding: 0;
 }
 
 body {
+  background-color: #04002C;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 160%;
 }
