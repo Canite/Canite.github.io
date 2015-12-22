@@ -11,6 +11,10 @@ body {
   font-size: 120%;
 }
 
+.vertLine {
+  border-left: 2px solid #FF0000;
+}
+
 a {
   text-decoration: none;
 }
