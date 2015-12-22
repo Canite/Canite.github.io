@@ -1,24 +1,3 @@
-@font-face {
-  font-family: 'Open Sans Condensed';
-  font-style: normal;
-  font-weight: 300;
-  src: local('Open Sans Cond Light'), local('OpenSans-CondensedLightItalic'), url(../fonts/SansCondLight.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'Open Sans Condensed Bold';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Open Sans Condensed Bold'), local('OpenSans-CondensedLightItalic'), url(../fonts/SansCondBold.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'Open Sans Condensed Italic';
-  font-style: italic;
-  font-weight: 300;
-  src: local('Open Sans Cond Light Italic'), local('OpenSans-CondensedLightItalic'), url(../fonts/SansCondItalic.woff2) format('woff2');
-}
-
 html, body {
   color: #ddd;
   margin: 0;
@@ -28,6 +7,6 @@ html, body {
 body {
   background-color: #000215;
   color: #B8BDEA;
-  font-family: 'Open Sans Condensed Bold';
+  font-family: "Lucida Console", Monaco, monospace;
   font-size: 160%;
 }
