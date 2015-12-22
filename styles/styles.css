@@ -28,6 +28,6 @@ html, body {
 body {
   background-color: #000215;
   color: #B8BDEA;
-  font-family: 'Open Sans Condensed';
+  font: 'Open Sans Condensed';
   font-size: 160%;
 }
