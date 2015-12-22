@@ -12,17 +12,17 @@ body {
 }
 
 table#nav {
-  margin: 0 auto;
   display: inline-table;
-  border-style: none solid;
-  border-width: 2px;
+  border-style: none;
   border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
 }
 
 table#nav th, table#nav td {
-  border-style: solid;
+  border-style: none solid;
   border-width: 2px;
-  padding: 5px;
+  padding: 25px;
   margin: 2px;
 }
 
