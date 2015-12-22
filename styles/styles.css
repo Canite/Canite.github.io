@@ -12,7 +12,15 @@ body {
 }
 
 table#nav {
+  margin: 0 auto;
+  display: inline-table;
   border-style: none solid;
+  border-width: 2px;
+  border-collapse: collapse;
+}
+
+table#nav th, table#nav td {
+  border-style: solid;
   border-width: 2px;
   padding: 5px;
   margin: 2px;
