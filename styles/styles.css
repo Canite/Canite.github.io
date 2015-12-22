@@ -13,8 +13,6 @@ body {
 
 a {
   text-decoration: none;
-  padding:  5px  0.2em  2px  0.2em;
-  margin:  -5px -0.2em -2px -0.2em;
 }
 
 a:link {
@@ -30,7 +28,7 @@ a:visited {
 }
 
 a:focus, a:hover {
-  color: #545A00;
+  color: #585D09;
   background: #D1DB4B;
   border-bottom: 2px solid #D1DB4B;
 }
