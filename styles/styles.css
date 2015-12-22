@@ -15,15 +15,15 @@ table#nav {
   display: inline-table;
   border-style: none;
   border-collapse: collapse;
-  width: 50%;
   margin: 0 auto;
 }
 
 table#nav th, table#nav td {
   border-style: none solid;
   border-width: 2px;
+  height: 100%;
   padding: 25px;
-  margin: 2px;
+  margin: 0 auto;
 }
 
 a {
