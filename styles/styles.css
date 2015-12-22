@@ -11,8 +11,11 @@ body {
   font-size: 120%;
 }
 
-table, th, td {
-  border: 2px solid white;
+table#nav {
+  border-style: none solid;
+  border-width: 2px;
+  padding: 5px;
+  margin: 2px;
 }
 
 a {
